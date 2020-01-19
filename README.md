@@ -13,8 +13,7 @@
 ## Samples from the _gRPC Up and Running_ Book
 
 - Chapter 02
-    - Getting Started with gRPC [[Go]](../ch05/interceptors/order-service/go/README.md) [[Java]](./ch05/interceptors
-    /order-service/java/README.md) 
+    - Getting Started with gRPC [[Go]](../samples/ch02/README.md) [[Java]](../samples/ch02/README.md) 
     
 - Chapter 03 
     - Communication patterns [Go][Java]
