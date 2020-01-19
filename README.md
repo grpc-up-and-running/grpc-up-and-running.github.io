@@ -1,5 +1,5 @@
 
-![gRPC Up and Running - Cover](../samples/images/grpc-cover.png)
+![gRPC Up and Running - Cover](https://raw.githubusercontent.com/grpc-up-and-running/samples/master/images/grpc-cover.png)
 
 
 # gRPC - Up and Running 
@@ -10,14 +10,14 @@ All the samples are written in both Go language and Java language. Feel free to 
 
 ## Authors 
 ### Kasun Indrasiri
-![Kasun](../samples/images//kasun.jpg)
+![Kasun](https://raw.githubusercontent.com/grpc-up-and-running/samples/master/images/kasun.jpg)
 
 Kasun Indrasiri is an author and architect with extensive experience in microservices, cloud native, and
 enterprise integration architecture. He is the director of integration architecture at WSO2 and the product manager of the WSO2 Enterprise Integrator.
 
 
 ### Danesh Kuruppu 
-![Danes](../samples/images//danesh.jpg)
+![Danes](https://raw.githubusercontent.com/grpc-up-and-running/samples/master/images/danesh.jpg)
 
 Danesh Kuruppu is an associate technical lead at WSO2 with expertise in microservices, messaging protocols, and service governance. Danesh has spearheaded the development
 of gRPC language implementation and microservices framework.
