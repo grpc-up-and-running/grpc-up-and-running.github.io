@@ -23,7 +23,6 @@ Danesh Kuruppu is an associate technical lead at WSO2 with expertise in microser
 of gRPC language implementation and microservices framework.
 
 
-
 ## Prerequisites
 
 * Install Go    
@@ -31,7 +30,6 @@ of gRPC language implementation and microservices framework.
  
 * Install Java    
   Samples are tested in JDK 1.8 version. Recommended to install JDK 1.8 version. [Java official downland page](https://www.java.com/en/download/)
-* Install Gradle ... 
 
   
 ## Samples from _gRPC Up and Running_

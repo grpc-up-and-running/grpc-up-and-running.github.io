@@ -1,0 +1,4 @@
+# Build Settings
+
+markdown: kramdown
+theme: minimal
