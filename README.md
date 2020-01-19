@@ -25,15 +25,42 @@ of gRPC language implementation and microservices framework.
   Samples are tested in JDK 1.8 version. Recommended to install JDK 1.8 version. [Java official downland page](https://www.java.com/en/download/)
 
   
-## Samples from _gRPC Up and Running_
+## Samples from the _gRPC Up and Running_ Book
 
 - Chapter 02
-    - Quickstart Interceptors [[Go]](./ch05/interceptors/order-service/go/README.md) [[Java]](./ch05/interceptors/order-service/java/README.md) 
+    - Getting Started with gRPC [[Go]](../ch05/interceptors/order-service/go/README.md) [[Java]](./ch05/interceptors
+    /order-service/java/README.md) 
     
 - Chapter 03 
     - Communication patterns [Go][Java]
 
 - Chapter 05 
     - Interceptors [[Go]](./ch05/interceptors/order-service/go/README.md) [[Java]](./ch05/interceptors/order-service/java/README.md)
-    - Deadlines - [[Go]](./ch05/deadlines/order-service/go/README.md) [[Java]](./ch05/deadlines/order-service/java/README.md)
-    ... 
+    - Deadline [[Go]](./ch05/deadlines/order-service/go/README.md) [[Java]](./ch05/deadlines/order-service/java/README.md)
+    - Cancellation 
+    - Compression 
+    - Keepalive 
+    - Metadata 
+    - Error Handling
+    - Load Balancing
+    - Multiplexing
+
+- Chapter 06
+    - Secure Channel
+    - Mutual TLS Channel
+    - Basic Authentication
+    - Token Based Authentication
+    
+- Chapter 07
+    - Continuous Integration
+    - Deploy in Docker
+    - Deploy in Kubernetes
+    - OpenCensus metrics
+    - OpenCensus tracing
+    - OpenTracing
+    - Prometheus
+    
+- Chapter 08
+    - gRPC Gateway
+    - Server Reflection
+    
