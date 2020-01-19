@@ -9,10 +9,10 @@ All the samples of this repository require to have the accompanying book [gRPC U
 
 ## Don't have _gRPC Up and Running_ book yet? 
 
-* You can purchase it from: 
+You can purchase it from following book sellers worldwide.  
 
-    * [Amazon](https://www.amazon.com/gRPC-Running-Building-Applications-Kubernetes/dp/1492058335/)
-    * [Barns and Nobel](https://www.barnesandnoble.com/w/grpc-kasun-indrasiri/1132647211?ean=9781492058335#/) 
+* [Amazon](https://www.amazon.com/gRPC-Running-Building-Applications-Kubernetes/dp/1492058335/)
+* [Barns and Nobel](https://www.barnesandnoble.com/w/grpc-kasun-indrasiri/1132647211?ean=9781492058335#/) 
 
 ## Prerequisites
 
@@ -72,8 +72,7 @@ All the samples of this repository require to have the accompanying book [gRPC U
 ### Kasun Indrasiri
 ![Kasun](https://raw.githubusercontent.com/grpc-up-and-running/samples/master/images/kasun.jpg)
 
-Kasun Indrasiri is an author and architect with extensive experience in microservices, cloud native, and
-enterprise integration architecture. He is the director of integration architecture at WSO2 and the product manager of the WSO2 Enterprise Integrator.
+Kasun Indrasiri is an author and an evangelist of microservices and enterprise integration architecture with over ten years of experience in building distributed systems. He is the director of Integration Architecture at WSO2 and the product manager of the WSO2 Enterprise Integrator. He has authored [Microservices for Enterprise](https://www.amazon.com/Microservices-Enterprise-Designing-Developing-Deploying/dp/1484238575) (Apress, 2018) and [Beginning WSO2 ESB](https://www.amazon.com/Beginning-WSO2-ESB-Kasun-Indrasiri/dp/148422342X) (Apress, 2017) and has spoken at several conferences, including the O’Reilly Software Architecture Conference 2019 in San Jose and GOTO Con 2019 in Chicago, and WSO2 Conferences in San Francisco, London, and Barcelona. Kasun lives in San Jose, California, and has founded the “Silicon Valley Microservices, APIs and Integration” Meetup, which is one of the largest microservices meetups in the San Francisco Bay area..
 
 
 ### Danesh Kuruppu 
