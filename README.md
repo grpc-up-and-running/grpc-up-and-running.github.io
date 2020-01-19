@@ -1,13 +1,33 @@
 
 ![gRPC Up and Running - Cover](https://raw.githubusercontent.com/grpc-up-and-running/samples/master/images/grpc-cover.png)
 
+## Welcome
+Welcome to the resource repository of the book "gRPC - Up and Running". 
+
+All the samples of this repository require to have the accompanying book [gRPC Up and Running](https://www.amazon.com/gRPC-Running-Building-Applications-Kubernetes/dp/1492058335/). Each sample is based on a real-world use case and details of the use case can be found in the respective chapter of the book. 
+
+
+## Don't have _gRPC Up and Running_ book yet? 
+
+* You can purchase it from: 
+
+    * [Amazon](https://www.amazon.com/gRPC-Running-Building-Applications-Kubernetes/dp/1492058335/)
+    * [Barns and Nobel](https://www.barnesandnoble.com/w/grpc-kasun-indrasiri/1132647211?ean=9781492058335#/) 
+
 ## Prerequisites
 
-* Install Go    
-  Download the latest Go distribution file from [Go’s official download page](https://golang.org/dl/) and follow the steps to install Go language.
+* Installing *Go*    
+    Download the latest Go distribution file from [Go’s official download page](https://golang.org/dl/) and follow the steps to install Go language.
  
-* Install Java    
-  Samples are tested in JDK 1.8 version. Recommended to install JDK 1.8 version. [Java official downland page](https://www.java.com/en/download/)
+* Installing *Java*    
+    Samples are tested in JDK 1.8 version. Recommended to install JDK 1.8 version. [Java official downland page](https://www.java.com/en/download/)
+
+* Installing *Gradle*  
+    [Gradle](https://gradle.org/) is required for builing and running all the Java samples. So, please install Gradle if you plan to try out Java samples of the book. 
+
+* Installing *protoc*  
+    [protoc](https://developers.google.com/protocol-buffers/docs/downloads) is required for generating code for your protocol buffer based gRPC service definitions (IDLs). Hence please install if you plan to use code generation. 
+
 
   
 ## Samples from the _gRPC Up and Running_ Book
@@ -16,11 +36,11 @@
     - Getting Started with gRPC [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/README.md) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/README.md) 
     
 - Chapter 03 
-    - Communication patterns [Go][Java]
+    - Communication patterns [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/README.md) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/README.md) 
 
 - Chapter 05 
-    - Interceptors [[Go]](./ch05/interceptors/order-service/go/README.md) [[Java]](./ch05/interceptors/order-service/java/README.md)
-    - Deadline [[Go]](./ch05/deadlines/order-service/go/README.md) [[Java]](./ch05/deadlines/order-service/java/README.md)
+    - Interceptors [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/README.md) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/README.md) 
+    - Deadline
     - Cancellation 
     - Compression 
     - Keepalive 
