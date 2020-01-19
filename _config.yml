@@ -4,7 +4,7 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 
 title: gRPC - Up and Running
-description: This repository accompanies gRPC - Up and Running. All the samples are written in both Go language and Java language. Feel free to check out the repository and try out.
+description: Welcome to the resource repository of the book "gRPC - Up and Running.
 
 github:
   is_project_page: true
