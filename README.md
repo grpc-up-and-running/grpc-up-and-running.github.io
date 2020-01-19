@@ -1,13 +1,6 @@
 
 ![gRPC Up and Running - Cover](https://raw.githubusercontent.com/grpc-up-and-running/samples/master/images/grpc-cover.png)
 
-
-# gRPC - Up and Running 
-
-This repository accompanies gRPC - Up and Running.
-All the samples are written in both Go language and Java language. Feel free to check out the repository and try out.
-
-
 ## Authors 
 ### Kasun Indrasiri
 ![Kasun](https://raw.githubusercontent.com/grpc-up-and-running/samples/master/images/kasun.jpg)
