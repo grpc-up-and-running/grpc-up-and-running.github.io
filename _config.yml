@@ -9,4 +9,5 @@ description: This repository accompanies gRPC - Up and Running. All the samples 
 github:
   is_project_page: true
   repository_url: https://github.com/grpc-up-and-running/samples
+  repository_nwo: grpc-up-and-running/samples
   is_user_page: false
