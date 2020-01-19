@@ -1,5 +1,5 @@
 
-![gRPC Up and Running - Cover](./images/grpc-cover.png)
+![gRPC Up and Running - Cover](https://github.com/grpc-up-and-running/samples/blob/master/images/grpc-cover.png)
 
 
 # gRPC - Up and Running 
