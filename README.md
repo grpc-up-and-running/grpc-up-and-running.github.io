@@ -32,10 +32,15 @@ You can purchase it from following book sellers worldwide.
   
 ## Samples from the _gRPC Up and Running_ Book
 
-- Chapter 02
+- Chapter 01 - Introduction to gRPC
+    - No code samples required for this chapter. 
+- Chapter 02 - Getting Started with gRPC
     - Getting Started with gRPC [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/README.md) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/README.md) 
+
+- Chapter 04 - gRPC Under the Hood
+    - No code samples required for this chapter. 
     
-- Chapter 03 
+- Chapter 03 - gRPC Communication Patterns
     - Communication patterns [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/README.md) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/README.md) 
 
 - Chapter 05 
