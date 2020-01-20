@@ -33,17 +33,18 @@ You can purchase it from following book sellers worldwide.
 ## Samples from the _gRPC Up and Running_ Book
 
 - Chapter 01 - Introduction to gRPC
-    - No code samples required for this chapter. 
+    - No code samples required for this chapter.
+
 - Chapter 02 - Getting Started with gRPC
     - Getting Started with gRPC [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/README.md) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/README.md) 
-
-- Chapter 04 - gRPC Under the Hood
-    - No code samples required for this chapter. 
     
 - Chapter 03 - gRPC Communication Patterns
     - Communication patterns [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/README.md) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/README.md) 
 
-- Chapter 05 
+- Chapter 04 - gRPC Under the Hood
+    - No code samples required for this chapter. 
+
+- Chapter 05 - gRPC Beyond the Basics 
     - Interceptors [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/README.md) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/README.md) 
     - Deadline
     - Cancellation 
@@ -54,13 +55,13 @@ You can purchase it from following book sellers worldwide.
     - Load Balancing
     - Multiplexing
 
-- Chapter 06
+- Chapter 06 - Secured gRPC
     - Secure Channel
     - Mutual TLS Channel
     - Basic Authentication
     - Token Based Authentication
     
-- Chapter 07
+- Chapter 07 - Running gRPC in Production
     - Continuous Integration
     - Deploy in Docker
     - Deploy in Kubernetes
@@ -69,7 +70,7 @@ You can purchase it from following book sellers worldwide.
     - OpenTracing
     - Prometheus
     
-- Chapter 08
+- Chapter 08 - The gRPC Ecosystem
     - gRPC Gateway
     - Server Reflection
     
