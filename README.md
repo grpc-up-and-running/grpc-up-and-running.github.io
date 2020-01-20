@@ -45,15 +45,15 @@ You can purchase it from following book sellers worldwide.
     - No code samples required for this chapter. 
 
 - Chapter 05 - gRPC Beyond the Basics 
-    - Interceptors [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/README.md) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/README.md) 
-    - Deadline
-    - Cancellation 
-    - Compression 
-    - Keepalive 
-    - Metadata 
-    - Error Handling
-    - Load Balancing
-    - Multiplexing
+    - Interceptors [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/interceptors/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/interceptors/order-service/java) 
+    - Deadline [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/deadlines/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/deadlines/order-service/java) 
+    - Cancellation [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/cancellation/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/cancellation/order-service/java) 
+    - Compression [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/compression/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/compression/order-service/java) 
+    - Keepalive [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/keepalive/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/keepalive/order-service/java) 
+    - Metadata [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/metadata/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/metadata/order-service/java) 
+    - Error Handling [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/error-handling/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/error-handling/order-service/java) 
+    - Load Balancing [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/loadbalancing/echo/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/loadbalancing/echo/java) 
+    - Multiplexing [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/multiplexing/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/multiplexing/order-service/java)
 
 - Chapter 06 - Secured gRPC
     - Secure Channel
