@@ -56,10 +56,10 @@ You can purchase it from following book sellers worldwide.
     - Multiplexing [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/multiplexing/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch05/multiplexing/order-service/java)
 
 - Chapter 06 - Secured gRPC
-    - Secure Channel
-    - Mutual TLS Channel
-    - Basic Authentication
-    - Token Based Authentication
+    - Secure Channel [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch06/secure-channel/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch06/secure-channel/java) 
+    - Mutual TLS Channel [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch06/mutual-tls-channel/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch06/mutual-tls-channel/java) 
+    - Basic Authentication [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch06/basic-authentication/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch06/basic-authentication/java) 
+    - Token Based Authentication [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch06/token-based-authentication/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch06/token-based-authentication/java) 
     
 - Chapter 07 - Running gRPC in Production
     - Continuous Integration
