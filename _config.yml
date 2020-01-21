@@ -4,7 +4,7 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 
 title: gRPC - Up and Running
-description: Welcome to the resource repository of the book "gRPC - Up and Running.
+description: Welcome to the resource repository of the book "gRPC - Up and Running".
 
 github:
   is_project_page: true
