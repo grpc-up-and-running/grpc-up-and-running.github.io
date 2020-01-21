@@ -71,8 +71,8 @@ You can purchase it from following book sellers worldwide.
     - Prometheus
     
 - Chapter 08 - The gRPC Ecosystem
-    - gRPC Gateway
-    - Server Reflection
+    - gRPC Gateway [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch08/grpc-gateway/go) 
+    - Server Reflection [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch08/server-reflection/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch08/server-reflection/java) 
     
 ## Authors 
 ### Kasun Indrasiri
