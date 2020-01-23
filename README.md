@@ -62,13 +62,13 @@ You can purchase it from following book sellers worldwide.
     - Token Based Authentication [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch06/token-based-authentication/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch06/token-based-authentication/java) 
     
 - Chapter 07 - Running gRPC in Production
-    - Continuous Integration
-    - Deploy in Docker
-    - Deploy in Kubernetes
-    - OpenCensus metrics
-    - OpenCensus tracing
-    - OpenTracing
-    - Prometheus
+    - Continuous Integration [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch07/grpc-continous-integration/go)
+    - Deploy in Docker [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch07/grpc-docker/go)
+    - Deploy in Kubernetes [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch07/grpc-kubernetes/go)
+    - OpenCensus metrics [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch07/grpc-opencensus/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch07/grpc-opencensus/java)
+    - OpenCensus tracing [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch07/grpc-opencensus-tracing/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch07/grpc-opencensus-tracing/java)
+    - OpenTracing [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch07/grpc-opentracing/go)
+    - Prometheus [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch07/grpc-prometheus/go)
     
 - Chapter 08 - The gRPC Ecosystem
     - gRPC Gateway [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch08/grpc-gateway/go) 
