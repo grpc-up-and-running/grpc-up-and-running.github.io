@@ -39,7 +39,7 @@ You can purchase it from following book sellers worldwide.
     - Getting Started with gRPC [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/productinfo/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/productinfo/java) [[Python]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/productinfo/python) [[Node.js]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/productinfo/nodejs) [[Kotlin]](https://github.com/grpc-up-and-running/samples/tree/master/ch02/productinfo/kotlin)
     
 - Chapter 03 - gRPC Communication Patterns
-    - Communication patterns [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/order-service/java) 
+    - Communication patterns [[Go]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/order-service/go) [[Java]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/order-service/java) [[Python]](https://github.com/grpc-up-and-running/samples/tree/master/ch03/order-service/python) 
 
 - Chapter 04 - gRPC Under the Hood
     - No code samples required for this chapter. 
